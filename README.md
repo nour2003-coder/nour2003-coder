@@ -16,8 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nour2003-coder&icon=2&color=2)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nour2003&label=Profile%20Views&color=0&icon=6&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=nour2003&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
