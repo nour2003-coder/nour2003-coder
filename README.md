@@ -15,6 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=nour2003&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
+---![](https://komarev.com/ghpvc/?username=nour2003-coder)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
