@@ -15,5 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----![](https://komarev.com/ghpvc/?username=nour2003-coder)
+![](https://komarev.com/ghpvc/?username=nour2003-codere&color=lightgrey&abbreviated=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
