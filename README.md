@@ -13,6 +13,7 @@ Hi 👋, I'm Nour Ardhaoui<br>A passionate Computer Science student from Tunisia
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nour2003-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nour2003-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Views](https://komarev.com/ghpvc/?username=<nour2003-coder/>)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
